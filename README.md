@@ -21,7 +21,7 @@ This project implements a reactive robot system that responds to the speed of ap
 *(Insert image and YouTube video link here)*
 
 ## 💬 Medium Article  
-[Read the full story on Medium →]([https://medium.com/@kullaniciadresi/buraya-link](https://medium.com/@ilaydabzdmrikc/e099a678f09e))
+[Read the full story on Medium →](https://medium.com/@kullaniciadresi/buraya-link](https://medium.com/@ilaydabzdmrikc/e099a678f09e)
 
 ## 📜 License  
 MIT
