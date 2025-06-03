@@ -17,11 +17,8 @@ This project implements a reactive robot system that responds to the speed of ap
 - `raspberry_pi_code/` → Contains the Python code to run the SNN using Brian2
 - `README.md` → Project summary and instructions
 
-## 📸 Wiring Diagram & Demo
-*(Insert image and YouTube video link here)*
 
 ## 💬 Medium Article  
 [Read the full story on Medium →](https://medium.com/@ilaydabzdmrikc/e099a678f09e)
 
-## 📜 License  
-MIT
+
